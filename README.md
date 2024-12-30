@@ -77,5 +77,8 @@ The chatbot saves the conversation history in a CSV file (`chat_log.csv`). You c
 - **Streamlit** for building the web interface.
 
 ---
+![Screenshot 2024-12-30 205209](https://github.com/user-attachments/assets/26aa3304-1266-4fde-8847-244ffb8c33aa)
+
+
 
 Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
