@@ -11,8 +11,11 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 - Provides relevant responses based on user input.
 - Maintains a conversation history that can be viewed by the user.
 - Built using Python and leverages popular libraries for NLP and machine learning.
+  
 
----
+![Screenshot 2024-12-30 205944](https://github.com/user-attachments/assets/61d64648-d92c-4e83-a1b9-0f199106431c)
+
+![Screenshot 2024-12-30 210110](https://github.com/user-attachments/assets/228a41d3-1c54-4028-b0fd-ab66c01f20a6)
 
 ## Technologies Used
 - **Python**
